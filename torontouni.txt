@@ -1,0 +1,4588 @@
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for health-ace.utm.utoronto.ca (142.150.1.4)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for smtp.utm.utoronto.ca (142.150.1.8)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for centauri.erin.utoronto.ca (142.150.1.9)
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for mail.erin.utoronto.ca (142.150.1.10)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.11
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.13
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.15
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.17
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for linus.erin.utoronto.ca (142.150.1.18)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for river.erin.utoronto.ca (142.150.1.19)
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for gunninglab-mgr.erin.utoronto.ca (142.150.1.22)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for wlm.erin.utoronto.ca (142.150.1.23)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.27
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.30
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.33
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for watcher.erin.utoronto.ca (142.150.1.37)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for uotmissebipsa.erin.utoronto.ca (142.150.1.42)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for frenchpt.erin.utoronto.ca (142.150.1.43)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for conferencepro.erin.utoronto.ca (142.150.1.46)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for bancheri.erin.utoronto.ca (142.150.1.49)
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for weblb1.erin.utoronto.ca (142.150.1.50)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for parking.erin.utoronto.ca (142.150.1.52)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for conductor.erin.utoronto.ca (142.150.1.69)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for enventory.erin.utoronto.ca (142.150.1.70)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.71
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for faculty-dr.erin.utoronto.ca (142.150.1.75)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for ccmysqldev.erin.utoronto.ca (142.150.1.77)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.80
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.84
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.85
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.86
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.87
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for shenanigans.erin.utoronto.ca (142.150.1.100)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.103
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for radcns.erin.utoronto.ca (142.150.1.104)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for smartc01.erin.utoronto.ca (142.150.1.105)
+Host is up (0.15s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for utmfs-nfs.erin.utoronto.ca (142.150.1.107)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.108
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for medusa.erin.utoronto.ca (142.150.1.109)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for submit.erin.utoronto.ca (142.150.1.111)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for prodwebdb.erin.utoronto.ca (142.150.1.112)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for prod1.erin.utoronto.ca (142.150.1.113)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for prodcache1.erin.utoronto.ca (142.150.1.114)
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.115
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for prodcache2.erin.utoronto.ca (142.150.1.116)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for prodwebnfs.erin.utoronto.ca (142.150.1.119)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.120
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.121
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for dhcpext.erin.utoronto.ca (142.150.1.125)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for netmon1.erin.utoronto.ca (142.150.1.127)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for netmon2.erin.utoronto.ca (142.150.1.128)
+Host is up (0.35s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for fusion.erin.utoronto.ca (142.150.1.129)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for forward.erin.utoronto.ca (142.150.1.130)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for ccmysqldb.erin.utoronto.ca (142.150.1.133)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for primex.erin.utoronto.ca (142.150.1.134)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for filestor.erin.utoronto.ca (142.150.1.138)
+Host is up (0.11s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for hpcnfs.erin.utoronto.ca (142.150.1.142)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for utmapp.erin.utoronto.ca (142.150.1.148)
+Host is up (0.17s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for krb3.ns.utoronto.ca (142.150.1.149)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.150
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for scheduler.erin.utoronto.ca (142.150.1.151)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for eaccounts.erin.utoronto.ca (142.150.1.157)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.167
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.169
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for labstatistics.erin.utoronto.ca (142.150.1.173)
+Host is up (0.10s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for secure.erin.utoronto.ca (142.150.1.176)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for logger.erin.utoronto.ca (142.150.1.177)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for docvault.erin.utoronto.ca (142.150.1.178)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for aimsapp.erin.utoronto.ca (142.150.1.179)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for aimsdb.erin.utoronto.ca (142.150.1.180)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.181
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.182
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for ads1.erin.utoronto.ca (142.150.1.186)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for students1.erin.utoronto.ca (142.150.1.188)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for webdevint.erin.utoronto.ca (142.150.1.191)
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for code.erin.utoronto.ca (142.150.1.195)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for res-nas.erin.utoronto.ca (142.150.1.197)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.198
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for adstest.erin.utoronto.ca (142.150.1.204)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for fstest.erin.utoronto.ca (142.150.1.207)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.213
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.1.214
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for ccmssql.erin.utoronto.ca (142.150.1.218)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for utm-utm.gw.utoronto.ca (142.150.1.224)
+Host is up (0.12s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for winipam.erin.utoronto.ca (142.150.1.237)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for house.erin.utoronto.ca (142.150.1.249)
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.2.1
+Host is up (0.100s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.5
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.12
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.15
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.30
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.31
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.104
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.107
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.2.108
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.97
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.100
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.106
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.110
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.115
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.4.119
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.4.129
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.137
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   closed   hosts2-ns
+8080/tcp closed   http-proxy
+8081/tcp closed   blackice-icecap
+
+Nmap scan report for 142.150.4.139
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.140
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.141
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.142
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.143
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.144
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.145
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.146
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.148
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.4.149
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.4.150
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.151
+Host is up (0.11s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.152
+Host is up (0.099s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.153
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.154
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.155
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.158
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.159
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.160
+Host is up (0.24s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.161
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.162
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.163
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.168
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.4.172
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.1
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.4
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.5.5
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.5.11
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.17
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.5.24
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.39
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.42
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.5.48
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.49
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.71
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.80
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.82
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.83
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.5.121
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.1
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.31
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.35
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.39
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.41
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.42
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.46
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.47
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.49
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.54
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.57
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.65
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.73
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.84
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.85
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.89
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.92
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.93
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.96
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.110
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.113
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.117
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.126
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.128
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.129
+Host is up (0.27s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.133
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.138
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.140
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.142
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.144
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.149
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.157
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.158
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.160
+Host is up (0.89s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.162
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.163
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.164
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.165
+Host is up (0.100s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.167
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.169
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.170
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.175
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.177
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.182
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.185
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.186
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.189
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.193
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.195
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.200
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.204
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.207
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.212
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.214
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.217
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.218
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.8.219
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.221
+Host is up (0.16s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.222
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.226
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.229
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.231
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.234
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.239
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.240
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.244
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.247
+Host is up (0.90s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.250
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.8.252
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.31
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.37
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.39
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.40
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.43
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.46
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.50
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.52
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.53
+Host is up (0.100s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.54
+Host is up (0.11s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.55
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.66
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.68
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.70
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.71
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.72
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.79
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp closed   blackice-icecap
+
+Nmap scan report for 142.150.9.81
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.82
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.90
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.91
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   closed   http
+81/tcp   closed   hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp closed   blackice-icecap
+
+Nmap scan report for 142.150.9.93
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.100
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.102
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.106
+Host is up (0.16s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.111
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.112
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.113
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.118
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.119
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.120
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.121
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.122
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.124
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.126
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.130
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.132
+Host is up (0.34s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.133
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.136
+Host is up (0.17s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.140
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.142
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.143
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.146
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.147
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.151
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.152
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.153
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.154
+Host is up (0.23s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.158
+Host is up (0.11s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.159
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.161
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.164
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.167
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.172
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.174
+Host is up (0.13s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.180
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.182
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.183
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.186
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.188
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.189
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.191
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.193
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.194
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.195
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.199
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.201
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.202
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.205
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.206
+Host is up (0.098s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.207
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.208
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.215
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.216
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.219
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.220
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.223
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.227
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.228
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.243
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.247
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.9.248
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.249
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.252
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.9.254
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.32
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.10.36
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.37
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.38
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.42
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.44
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.48
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.49
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.56
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.58
+Host is up (0.099s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.60
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.10.62
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.64
+Host is up (0.16s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.65
+Host is up (0.12s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.66
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.67
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.69
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.70
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.71
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.72
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.73
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.74
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.80
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.84
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.85
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.87
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.90
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.92
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.96
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.98
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.106
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.108
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.10.113
+Host is up (0.099s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.116
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.117
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.119
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.121
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.122
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.127
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.10.131
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.132
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.136
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.138
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.139
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.140
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.144
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.145
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.148
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.152
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.153
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.155
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.161
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.162
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.164
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.166
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.171
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.172
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.174
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.176
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.177
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.187
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.189
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.193
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.194
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.197
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.200
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.201
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.203
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.204
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.205
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.206
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.207
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.208
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.220
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.221
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.223
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.224
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.225
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.227
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.229
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.230
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.236
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.237
+Host is up (0.15s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.241
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.10.251
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.11.33
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.11.195
+Host is up (0.099s latency).
+
+PORT     STATE    SERVICE
+80/tcp   closed   http
+81/tcp   closed   hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp closed   blackice-icecap
+
+Nmap scan report for 142.150.11.216
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.1
+Host is up (0.099s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.34
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.37
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.41
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.42
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.43
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.45
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.46
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.47
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.48
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.51
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   closed   http
+81/tcp   filtered hosts2-ns
+8080/tcp closed   http-proxy
+8081/tcp closed   blackice-icecap
+
+Nmap scan report for 142.150.12.52
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.53
+Host is up (0.13s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.54
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.57
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.58
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.59
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.62
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.65
+Host is up (0.13s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.66
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.70
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.74
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.76
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.77
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.78
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.87
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.90
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.92
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.95
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.99
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.100
+Host is up (0.15s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.106
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.108
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.109
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.129
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.130
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.131
+Host is up (0.36s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.132
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.137
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.138
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.142
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.148
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.155
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.161
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.165
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.166
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.168
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.170
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.171
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.174
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.177
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.179
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.182
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.187
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.188
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.190
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.193
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.194
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.196
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.197
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.198
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.199
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.202
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.203
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.207
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.209
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.211
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.216
+Host is up (0.16s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.218
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.223
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.226
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.232
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.233
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.237
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.238
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.12.239
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.243
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.244
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.246
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.247
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.248
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.253
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.12.254
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.11
+Host is up (0.10s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   closed   hosts2-ns
+8080/tcp closed   http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.31
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.36
+Host is up (0.26s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.37
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.38
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.40
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.42
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.44
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.45
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.50
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.53
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.57
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.58
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.59
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.63
+Host is up (0.16s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.64
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.65
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.69
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.71
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.72
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.73
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.75
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.77
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.78
+Host is up (0.10s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.79
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.80
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.81
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.84
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.85
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.99
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.100
+Host is up (0.23s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.101
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.102
+Host is up (0.098s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.103
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.104
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.105
+Host is up (0.19s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.107
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.114
+Host is up (0.097s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.115
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp open   http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.116
+Host is up (0.097s latency).
+
+PORT     STATE    SERVICE
+80/tcp   filtered http
+81/tcp   filtered hosts2-ns
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+
+Nmap scan report for 142.150.13.117
+Host is up (0.096s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+81/tcp   closed hosts2-ns
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+
+Nmap scan report for 142.150.13.118
+Host is up (0.096s latency).
+
+PORT     STATE    SERVICE
+80/tcp   open     http
+81/tcp   filtered hosts2-ns
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap

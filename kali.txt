@@ -1,0 +1,25 @@
+ssh root@194.195.240.20
+ssh -t skolpentest@lish-frankfurt.linode.com kalilinux-eu-central
+
+login: Oslo0099
+realizxe@gmail.com
+
+cd RouterSploit
+python3 ./rsf.py
+search scanner
+show options
+use scanners/
+use scanners/autopwn
+
+set target 'ipv4-ipv6'
+
+bruteforcing 
+use creds/routers/fortinet/ftp_default_creds
+
+https://kalitut.com/routersploit/
+
+nmap debian
+
+
+nmap --script vuln 'ip'
+nmap -sT 'ip'

